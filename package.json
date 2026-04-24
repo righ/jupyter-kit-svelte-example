@@ -10,13 +10,13 @@
     "check": "svelte-check --tsconfig ./tsconfig.app.json && tsc -p tsconfig.node.json"
   },
   "dependencies": {
-    "@jupyter-kit/core": "3.0.0-rc.7",
-    "@jupyter-kit/svelte": "3.0.0-rc.7",
-    "@jupyter-kit/editor-codemirror": "3.0.0-rc.7",
-    "@jupyter-kit/executor-pyodide": "3.0.0-rc.7",
-    "@jupyter-kit/katex-cdn": "3.0.0-rc.7",
-    "@jupyter-kit/theme-all": "3.0.0-rc.7",
-    "@jupyter-kit/widgets": "3.0.0-rc.7"
+    "@jupyter-kit/core": "3.0.0",
+    "@jupyter-kit/svelte": "3.0.0",
+    "@jupyter-kit/editor-codemirror": "3.0.0",
+    "@jupyter-kit/executor-pyodide": "3.0.0",
+    "@jupyter-kit/katex-cdn": "3.0.0",
+    "@jupyter-kit/theme-all": "3.0.0",
+    "@jupyter-kit/widgets": "3.0.0"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^7.0.0",
